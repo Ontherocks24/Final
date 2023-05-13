@@ -3,10 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>p5.js example</title>
-    <script src="p5.min.js"></script>
-    <script src="sketch.js"></script>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+
+    
   </head>
   <body>
     <h1>Behind The Mask</h1>
@@ -22,12 +20,7 @@
     <!--Code for audio -->
     <audio controls width="750">
     <source src="nameofaudio.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.    
-    </audio>
-    <!--The code for the p5 sketch can be found in sketch.js if you don't want a p5 sketch on your webpage, delete that file from the folder).-->
-    <div id="sketch-holder">
-    <!-- Our sketch will go here! -->
-    </div>
+  
   
   </body>
 </html>
